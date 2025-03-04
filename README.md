@@ -15,7 +15,7 @@ A sleek and modern calculator app built using **Flutter** with **Material 3 UI**
 ## 🛠️ Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-repo/flutter-calculator.git
+   git clone https://github.com/CharithaBimsara/Flutter-calculator.git
    ```
 2. **Navigate to the project folder**
    ```sh
